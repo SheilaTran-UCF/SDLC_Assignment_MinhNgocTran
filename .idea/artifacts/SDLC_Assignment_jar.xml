@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SDLC_Assignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SDLC_Assignment_jar</output-path>
+    <root id="archive" name="SDLC_Assignment.jar">
+      <element id="module-output" name="SDLC_Assignment" />
+    </root>
+  </artifact>
+</component>
