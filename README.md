@@ -4,7 +4,9 @@
 •	Student: Minh Ngoc Tran
 
 •	Course: CEN-3024C Software Development
+
 •	Term: Summer 2025
+
 •	Date: May 18, 2025
 
 ## Library Management System (LMS)
