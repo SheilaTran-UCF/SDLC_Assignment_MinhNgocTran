@@ -20,29 +20,43 @@ package SDLC; // Declares that this class belongs to the package named 'SDLC'
  * Date : May 18 - 2025
  *
  */
+// Define the Patron class to represent a library patron
 public class Patron {
+
+    // Declare a private integer variable to store the patron's ID
     private int id;
+
+    // Declare a private String variable to store the patron's name
     private String name;
+
+    // Declare a private String variable to store the patron's address
     private String address;
+
+    // Declare a private double variable to store the amount of fine owed by the patron
     private double fine;
 
+    // Constructor to initialize a new Patron object with id, name, address, and fine
     public Patron(int id, String name, String address, double fine) {
-        this.id = id;
-        this.name = name;
-        this.address = address;
-        this.fine = fine;
+        this.id = id;                 // Set the patron's ID
+        this.name = name;             // Set the patron's name
+        this.address = address;       // Set the patron's address
+        this.fine = fine;             // Set the patron's fine amount
     }
 
+    // Getter method to return the patron's ID
     public int getId() {
         return id;
     }
 
+    // Getter method to return the patron's fine amount
     public double getFine() {
         return fine;
     }
 
+    // Override the toString method to provide a formatted string representing the patron
     @Override
     public String toString() {
+        // Format and return the patron's details as a string
         return String.format("ID: %d, Name: %s, Address: %s, Fine: $%.2f", id, name, address, fine);
     }
 }
