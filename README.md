@@ -32,12 +32,12 @@ SDLC/
 
 
 ##🧪 Example Output
-Current working directory: /path/to/project
-Enter path to patron data file (or press Enter to use 'patrons.txt'): 
-Patrons loaded successfully.
-1,John Doe,123 Main St,2.50
-2,Jane Smith,456 Elm St,1.25
-3,Bob Johnson,789 Oak St,0.00
+- **Current working directory: /path/to/project
+- **Enter path to patron data file (or press Enter to use 'patrons.txt'): 
+- **Patrons loaded successfully.
+- **1,John Doe,123 Main St,2.50
+- **2,Jane Smith,456 Elm St,1.25
+- **3,Bob Johnson,789 Oak St,0.00
 
 
 
