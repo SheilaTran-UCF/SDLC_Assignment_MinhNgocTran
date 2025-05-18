@@ -54,8 +54,7 @@ SDLC_Assignment/<br>
 1. Download or clone this repository.
 2. Open a terminal/command prompt and navigate to the project directory.
 3. Run the following command:
-   ```bash
-java -jar SDLC_Assignment.jar
+ - java -jar SDLC_Assignment.jar
 
 
 
