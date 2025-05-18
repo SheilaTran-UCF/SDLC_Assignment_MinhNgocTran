@@ -30,8 +30,8 @@ A console-based Java application that helps manage library patrons. Built as par
 SDLC
 - **├── Main.java # Entry point and menu interface
 - **├── Patron.java # Defines the Patron object
-├── PatronManager.java # Handles core operations (CRUD, file I/O)
-└── patrons.txt # Sample data file (optional)
+-├── PatronManager.java # Handles core operations (CRUD, file I/O)
+-└── patrons.txt # Sample data file (optional)
 
 
 
