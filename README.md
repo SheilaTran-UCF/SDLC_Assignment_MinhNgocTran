@@ -33,7 +33,7 @@ A console-based Java application that helps manage library patrons. Built as par
 ├── PatronManager.java # Handles core operations (CRUD, file I/O)<br>
 └── patrons.txt # Sample data file (optional)<br>
 
-
+---
 ## 🧪 Example Output
 
 - Current working directory: /path/to/project
