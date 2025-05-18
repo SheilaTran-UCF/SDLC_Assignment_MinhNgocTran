@@ -36,12 +36,7 @@ SDLC/
 
 
 ## 🧪 Example Output
-
-- **Current working directory: /path/to/project
-- **Enter path to patron data file (or press Enter to use 'patrons.txt'):
-- **Patrons loaded successfully.
-- **- **ID: 101, Name: John Doe, Address: 123 Main St, Fine: $5.50
-- **ID: 102, Name: Jane Smith, Address: 456 Oak Ave, Fine: $0.00
+<pre> ``` Current working directory: /path/to/project Enter path to patron data file (or press Enter to use 'patrons.txt'): Patrons loaded successfully. ID: 101, Name: John Doe, Address: 123 Main St, Fine: $5.50 ID: 102, Name: Jane Smith, Address: 456 Oak Ave, Fine: $0.00 Menu Options 1. Add new patron 2. Remove patron 3. List all patrons 4. Calculate total fines 5. Exit ``` </pre>
 
 Menu Options
 
