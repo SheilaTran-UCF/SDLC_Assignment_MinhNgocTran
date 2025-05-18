@@ -27,4 +27,40 @@ A console-based Java application that helps manage library patrons. Built as par
 ---
 
 ## 🧩 Project Structure
+SDLC/
+├── Main.java # Entry point and menu interface
+├── Patron.java # Defines the Patron object
+├── PatronManager.java # Handles core operations (CRUD, file I/O)
+└── patrons.txt # Sample data file (optional)
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧪 Example Output
+
+Current working directory: /path/to/project
+Enter path to patron data file (or press Enter to use 'patrons.txt'):
+Patrons loaded successfully.
+ID: 101, Name: John Doe, Address: 123 Main St, Fine: $5.50
+ID: 102, Name: Jane Smith, Address: 456 Oak Ave, Fine: $0.00
+
+Menu Options
+
+Add new patron
+
+Remove patron
+
+List all patrons
+
+Calculate total fines
+
+Exit
+
+yaml
+Copy
+Edit
+
 
