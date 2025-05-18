@@ -36,7 +36,7 @@ A console-based Java application that helps manage library patrons. Built as par
 ---
 
 
-## 🚀 How to Run the Application
+
 
 ### 📦 Using the Executable JAR:
 
