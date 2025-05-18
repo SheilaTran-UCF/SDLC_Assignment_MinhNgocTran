@@ -27,17 +27,28 @@ A console-based Java application that helps manage library patrons. Built as par
 ---
 ## 🧩 Project Structure
 
-\SDLC<br>
-├── Main.java # Entry point and menu interface<br>
-├── Patron.java # Defines the Patron object<br>
-├── PatronManager.java # Handles core operations (CRUD, file I/O)<br>
-└── patrons.txt # Sample data file (optional)<br>
+SDLC_Assignment/<br>
+├── .idea/
+├── out/
+│ └── production/
+│ └── SDLC/
+│ ├── Main.class
+│ ├── Patron.class
+│ └── PatronManager.class
+├── src/
+│ └── SDLC/
+│ ├── Main.java
+│ ├── Patron.java
+│ └── PatronManager.java
+├── patrons.txt
+├── manifest.txt
+├── SDLC_Assignment.jar
+├── SDLC_Assignment.iml
+└── README.md
 
 ---
 
-
-
-
+## 🚀 How to Run the Application
 ### 📦 Using the Executable JAR:
 
 1. Download or clone this repository.
@@ -48,7 +59,7 @@ A console-based Java application that helps manage library patrons. Built as par
 
 ---
 
-##📜 Files Included
+###📜 Files Included
 - src/SDLC/ — Source code files (Main.java, Patron.java, PatronManager.java)
 
 - out/production/SDLC/ — Compiled .class files
