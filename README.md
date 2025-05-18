@@ -54,6 +54,11 @@ A console-based Java application that helps manage library patrons. Built as par
 5. Exit
 
 ---
+## 📊 UML Diagram
+
+![UML Diagram](./f40dd852-6c3d-42d9-ba9a-ef09098aa9be.png)
+
+---
 
 ## 📌 Notes
 
