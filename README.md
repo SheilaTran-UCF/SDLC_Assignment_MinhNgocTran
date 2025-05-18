@@ -53,4 +53,20 @@ A console-based Java application that helps manage library patrons. Built as par
 4. Calculate total fines  
 5. Exit
 
+---
 
+## 📌 Notes
+
+- Developed using Java 17 or higher.
+- Ensure `patrons.txt` is in the project root or provide a valid file path when prompted.
+- Designed following best practices in modular design and SDLC methodology.
+  
+---
+
+## ✅ Future Improvements
+
+- Add support for books and checkouts.
+- GUI interface using JavaFX or Swing.
+- Persistent database storage using JDBC/SQLite.
+
+---
