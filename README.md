@@ -21,8 +21,8 @@ A console-based Java application that helps manage library patrons. Built as par
 - ➖ Remove an existing patron by ID  
 - 📋 List all patrons  
 - 💰 Calculate total fines  
-- 🗂 Organized using object-oriented principles (OOP)  
-- 📄 Clear and readable file I/O  
+- 🗂 Organized using object-oriented programming (OOP) principles  
+- 📄 Clean, readable file input/output
 
 ---
 ## 🧩 Project Structure
@@ -54,6 +54,8 @@ SDLC_Assignment/<br>
 1. Download or clone this repository.
 2. Open a terminal/command prompt and navigate to the project directory.
 3. Run the following command:
+   ```bash
+java -jar SDLC_Assignment.jar
 
 
 
