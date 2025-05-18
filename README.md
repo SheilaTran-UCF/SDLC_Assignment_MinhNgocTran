@@ -11,6 +11,7 @@ A console-based Java application that helps manage library patrons. Built as par
 
 
 ##📁 Features
+
 - **✅ Load patron data from a CSV file
 - **➕ Add a new patron
 - **➖ Remove an existing patron by ID
@@ -18,12 +19,27 @@ A console-based Java application that helps manage library patrons. Built as par
 - **💰 Calculate total fines
 - **🗂 Organized using object-oriented principles (OOP)
 - **📄 Clear and readable file I/O
+- 
 
 ##🧩 Project Structure
+
+
 SDLC/
 ├── Main.java            # Entry point and menu interface
 ├── Patron.java          # Defines the Patron object
 ├── PatronManager.java   # Handles core operations (CRUD, file I/O)
 └── patrons.txt          # Sample data file (optional)
-![image](https://github.com/user-attachments/assets/fbbd9ff2-a8aa-4a19-a28d-4f552fcf2e15)
+
+
+##🧪 Example Output
+Current working directory: /path/to/project
+Enter path to patron data file (or press Enter to use 'patrons.txt'): 
+Patrons loaded successfully.
+1,John Doe,123 Main St,2.50
+2,Jane Smith,456 Elm St,1.25
+3,Bob Johnson,789 Oak St,0.00
+
+
+
+
 
