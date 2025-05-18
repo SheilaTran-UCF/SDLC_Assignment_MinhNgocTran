@@ -59,7 +59,8 @@ SDLC_Assignment/<br>
 
 ---
 
-###📜 Files Included
+### 📜 Files Included:
+
 - src/SDLC/ — Source code files (Main.java, Patron.java, PatronManager.java)
 
 - out/production/SDLC/ — Compiled .class files
@@ -102,7 +103,8 @@ SDLC_Assignment/<br>
 
 ---
 
-📦 Deployment
+### 📦 Deployment:
+
 The application is deployed locally via the SDLC_Assignment.jar file. Ensure you have Java SE 8 or higher installed to run the JAR file.
 
 ---
