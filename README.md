@@ -44,8 +44,7 @@ A console-based Java application that helps manage library patrons. Built as par
 2. Open a terminal/command prompt and navigate to the project directory.
 3. Run the following command:
 
-```bash
-java -jar SDLC_Assignment.jar
+
 
 ---
 
