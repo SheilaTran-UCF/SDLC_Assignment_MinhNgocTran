@@ -125,3 +125,12 @@ The application is deployed locally via the SDLC_Assignment.jar file. Ensure you
 - Persistent database storage using JDBC/SQLite.
 
 ---
+
+
+## Output with Jar file
+
+![image](https://github.com/user-attachments/assets/e9511a34-a324-4d92-8e04-29f030eb4f10)
+
+![image](https://github.com/user-attachments/assets/03d72752-a4d0-4be5-b85a-b9201034a065)
+
+
