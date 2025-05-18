@@ -48,20 +48,22 @@ A console-based Java application that helps manage library patrons. Built as par
 
 ---
 
-📜 Files Included
+##📜 Files Included
 - src/SDLC/ — Source code files (Main.java, Patron.java, PatronManager.java)
 
 - out/production/SDLC/ — Compiled .class files
 
-patrons.txt — Sample patron data file
+- patrons.txt — Sample patron data file
 
-manifest.txt — Manifest specifying the main class for the JAR
+- manifest.txt — Manifest specifying the main class for the JAR
 
-SDLC_Assignment.jar — Executable JAR file
+- SDLC_Assignment.jar — Executable JAR file
 
-README.md — This documentation file
+- README.md — This documentation file
 
-.idea/, .iml — IntelliJ IDEA project configuration files
+- .idea/, .iml — IntelliJ IDEA project configuration files
+
+---
 
 ## 🧪 Example Input/Output
 
