@@ -34,6 +34,36 @@ A console-based Java application that helps manage library patrons. Built as par
 └── patrons.txt # Sample data file (optional)<br>
 
 ---
+
+
+## 🚀 How to Run the Application
+
+### 📦 Using the Executable JAR:
+
+1. Download or clone this repository.
+2. Open a terminal/command prompt and navigate to the project directory.
+3. Run the following command:
+
+```bash
+java -jar SDLC_Assignment.jar
+
+---
+
+📜 Files Included
+- src/SDLC/ — Source code files (Main.java, Patron.java, PatronManager.java)
+
+- out/production/SDLC/ — Compiled .class files
+
+patrons.txt — Sample patron data file
+
+manifest.txt — Manifest specifying the main class for the JAR
+
+SDLC_Assignment.jar — Executable JAR file
+
+README.md — This documentation file
+
+.idea/, .iml — IntelliJ IDEA project configuration files
+
 ## 🧪 Example Input/Output
 
 - Current working directory: /path/to/project
@@ -60,10 +90,15 @@ A console-based Java application that helps manage library patrons. Built as par
 
 ---
 
+📦 Deployment
+The application is deployed locally via the SDLC_Assignment.jar file. Ensure you have Java SE 8 or higher installed to run the JAR file.
+
+---
+
 ## 📌 Notes
 
-- Developed using Java 17 or higher.
-- Ensure `patrons.txt` is in the project root or provide a valid file path when prompted.
+- The patrons data file should be named patrons.txt and placed in the same directory as the JAR when executing.
+- If no file path is entered at launch, the program defaults to using patrons.txt.
 - Designed following best practices in modular design and SDLC methodology.
   
 ---
