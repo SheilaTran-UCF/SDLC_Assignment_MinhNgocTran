@@ -34,7 +34,7 @@ A console-based Java application that helps manage library patrons. Built as par
 └── patrons.txt # Sample data file (optional)<br>
 
 ---
-## 🧪 Example Output
+## 🧪 Example Input/Output
 
 - Current working directory: /path/to/project
 - Enter path to patron data file (or press Enter to use 'patrons.txt'): 
