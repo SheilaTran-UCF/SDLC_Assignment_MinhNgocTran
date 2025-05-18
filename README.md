@@ -129,8 +129,19 @@ The application is deployed locally via the SDLC_Assignment.jar file. Ensure you
 
 ## Output with Jar file
 
-![image](https://github.com/user-attachments/assets/e9511a34-a324-4d92-8e04-29f030eb4f10)
+![image](https://github.com/user-attachments/assets/ec431c50-3dae-4746-b795-a85e668d39e9)
+![image](https://github.com/user-attachments/assets/292bf078-5c6f-489c-b155-fc994b6279e5)
 
-![image](https://github.com/user-attachments/assets/03d72752-a4d0-4be5-b85a-b9201034a065)
+---
+
+## Ouput with Program
+
+![image](https://github.com/user-attachments/assets/7c21f4c1-56d0-458c-aaf8-dec388d319fc)
+![image](https://github.com/user-attachments/assets/8b2e88b2-6fb2-44bd-8735-ffb11d3d5a40)
+
+
+
+
+
 
 
