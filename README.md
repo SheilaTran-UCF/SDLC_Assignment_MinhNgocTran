@@ -28,23 +28,23 @@ A console-based Java application that helps manage library patrons. Built as par
 ## 🧩 Project Structure
 
 SDLC_Assignment/<br>
-├── .idea/
-├── out/
-│ └── production/
-│ └── SDLC/
-│ ├── Main.class
-│ ├── Patron.class
-│ └── PatronManager.class
-├── src/
-│ └── SDLC/
-│ ├── Main.java
-│ ├── Patron.java
-│ └── PatronManager.java
-├── patrons.txt
-├── manifest.txt
-├── SDLC_Assignment.jar
-├── SDLC_Assignment.iml
-└── README.md
+├── .idea/<br>
+├── out/<br>
+│ └── production/<br>
+│ └── SDLC/<br>
+│ ├── Main.class<br>
+│ ├── Patron.class<br>
+│ └── PatronManager.class<br>
+├── src/<br>
+│ └── SDLC/<br>
+│ ├── Main.java<br>
+│ ├── Patron.java<br>
+│ └── PatronManager.java<br>
+├── patrons.txt<br>
+├── manifest.txt<br>
+├── SDLC_Assignment.jar<br>
+├── SDLC_Assignment.iml<br>
+└── README.md<br>
 
 ---
 
